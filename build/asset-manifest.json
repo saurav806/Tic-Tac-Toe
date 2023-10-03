@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe/build/static/css/main.f394feda.css",
+    "main.js": "/tic-tac-toe/build/static/js/main.f7620906.js",
+    "index.html": "/tic-tac-toe/build/index.html",
+    "main.f394feda.css.map": "/tic-tac-toe/build/static/css/main.f394feda.css.map",
+    "main.f7620906.js.map": "/tic-tac-toe/build/static/js/main.f7620906.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f394feda.css",
+    "static/js/main.f7620906.js"
+  ]
+}
